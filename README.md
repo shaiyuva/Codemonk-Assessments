@@ -1,2 +1,2 @@
 # Codemonk-Assessments
-Tasks consist of EDA and Deep learning fashion prediction model
+Tasks consist of EDA and Statsistical analaysis
