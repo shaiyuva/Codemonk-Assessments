@@ -1,2 +1,2 @@
 # Codemonk-Assessments
-Tasks consist of EDA and Statsistical analaysis
+Tasks consist of EDA and Statistical analaysis
